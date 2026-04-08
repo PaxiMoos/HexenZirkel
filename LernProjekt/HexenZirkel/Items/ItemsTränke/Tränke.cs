@@ -1,9 +1,10 @@
 using System;
+using HexenZirkel.Charactere;
 using HexenZirkel.GeldSystem;
 
 namespace HexenZirkel.Items;
 
-public abstract class Tränke
+public abstract class Tränke : IAlleItems
 {
     public string? Name { get; set; }
     public string? Wirkung { get; set; }

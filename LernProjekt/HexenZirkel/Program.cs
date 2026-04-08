@@ -1,16 +1,7 @@
-﻿using HexenZirkel;
+﻿using HexenZirkel.Charactere;
 using HexenZirkel.Items;
 
-TränkeManager manager = new TränkeManager();
-Tränke heilTrank = new TrankDerHeilung(Tränke.Größe.Groß);
-Tränke sträkeTrank = new TrankDerStärke(Tränke.Größe.Klein);
-Tränke schnelligkeitsTrank = new TrankDerSchnelligkeit(Tränke.Größe.Mittel);
-
-manager.TränkeListe.Add(heilTrank);
-manager.TränkeListe.Add(sträkeTrank);
-manager.TränkeListe.Add(schnelligkeitsTrank);
-
-foreach (Tränke trank in manager.TränkeListe)
-{
-    trank.TrankInfo();
-}
+Spieler spieler = new Spieler("Lilly");
+TrankDerHeilung heilTrank = new TrankDerHeilung(Tränke.Größe.Groß);
+spieler.inventar.ItemsHinzufügen(heilTrank);
+spieler.inventar.InventarAnzeigen();
