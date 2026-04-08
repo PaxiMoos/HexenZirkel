@@ -12,5 +12,26 @@ public class HeilTrank : Tränke
         trankGröße = TrankGröße;
         Name = "Heiltrank";
         TrankBeschreibung();
-    }    
+    }
+
+    public override void TrankBeschreibung()
+    {
+        if (TrankGröße == Größe.Groß)
+        {
+            Wirkung = "Der Heiltrank heilt euch um 80 LebensPunkte!";
+            Preis = Geld.Gold = "1 Gold";
+        }
+
+        else if (TrankGröße == Größe.Mittel)
+        {
+            Wirkung = "Der Heiltrank heilt euch um 50 LebensPunkte!";
+            Preis = Geld.Silber = "60 Silber";
+        }
+
+        else if (TrankGröße == Größe.Klein)
+        {
+            Wirkung = "Der Heiltrank heilt dich um 20 LebensPunkte!";
+            Preis = Geld.Kupfer = "70 Kupfer";
+        }
+    }
 }
