@@ -1,0 +1,15 @@
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\bin\Debug\net10.0\HexenZirkel.exe
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\bin\Debug\net10.0\HexenZirkel.deps.json
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\bin\Debug\net10.0\HexenZirkel.runtimeconfig.json
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\bin\Debug\net10.0\HexenZirkel.dll
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\bin\Debug\net10.0\HexenZirkel.pdb
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.AssemblyInfoInputs.cache
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.AssemblyInfo.cs
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.csproj.CoreCompileInputs.cache
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.sourcelink.json
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.dll
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\refint\HexenZirkel.dll
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.pdb
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\HexenZirkel.genruntimeconfig.cache
+C:\Users\ruben\HexenZirkel\LernProjekt\HexenZirkel\obj\Debug\net10.0\ref\HexenZirkel.dll

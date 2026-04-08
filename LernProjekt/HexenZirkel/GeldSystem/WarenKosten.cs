@@ -4,7 +4,7 @@ namespace HexenZirkel.GeldSystem;
 
 public class WarenKosten
 {
-    public int Gold { get; set; }
-    public int Silber { get; set; }
-    public int Kupfer { get; set; }
+    public string? Gold { get; set; }
+    public string? Silber { get; set; }
+    public string? Kupfer { get; set; }
 }
