@@ -1,9 +1,12 @@
 using System;
+using HexenZirkel.GeldSystem;
 
 namespace HexenZirkel.Items;
 
-public class HeilTrank : ITränke
+public class HeilTrank : Tränke
 {
+    
+
     public HeilTrank(Größe trankGröße)
     {
         trankGröße = TrankGröße;
@@ -11,7 +14,7 @@ public class HeilTrank : ITränke
         TrankBeschreibung();
     }
 
-    void TrankBeschreibung()
+    public override void TrankBeschreibung()
     {
         if (TrankGröße == Größe.Groß)
         {

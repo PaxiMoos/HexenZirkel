@@ -3,7 +3,7 @@ using HexenZirkel.GeldSystem;
 
 namespace HexenZirkel.Items;
 
-public class ITränke
+public abstract class Tränke
 {
     public string? Name { get; set; }
     public string? Wirkung { get; set; }
@@ -18,4 +18,6 @@ public class ITränke
         Mittel,
         Klein
     }
+
+    public abstract void TrankBeschreibung();
 }
