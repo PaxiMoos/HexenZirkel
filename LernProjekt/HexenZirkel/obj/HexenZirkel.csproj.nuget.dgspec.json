@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruben\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj": {}
+    "C:\\Users\\ruben\\HexenZirkel\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruben\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj": {
+    "C:\\Users\\ruben\\HexenZirkel\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruben\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\HexenZirkel\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj",
         "projectName": "HexenZirkel",
-        "projectPath": "C:\\Users\\ruben\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj",
+        "projectPath": "C:\\Users\\ruben\\HexenZirkel\\LernProjekt\\HexenZirkel\\HexenZirkel.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruben\\LernProjekt\\HexenZirkel\\obj\\",
+        "outputPath": "C:\\Users\\ruben\\HexenZirkel\\LernProjekt\\HexenZirkel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
