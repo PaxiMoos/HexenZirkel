@@ -20,5 +20,14 @@ public abstract class Tränke
     }
 
     public abstract void TrankBeschreibung();
-    
+    public void TrankInfo()
+    {
+        System.Console.WriteLine("TrankInfo: ");
+
+        System.Console.WriteLine($"Name: {Name}");
+        System.Console.WriteLine($"Größe: {TrankGröße}");
+        System.Console.WriteLine($"Wirkung: {Wirkung}");
+        System.Console.WriteLine($"Preis: {Preis}\n");
+    }
+
 }
