@@ -1,7 +1,4 @@
-﻿using HexenZirkel.Charactere;
-using HexenZirkel.Items;
+﻿using HexenZirkel;
 
-Spieler spieler = new Spieler("Lilly");
-TrankDerHeilung heilTrank = new TrankDerHeilung(Tränke.Größe.Groß);
-spieler.inventar.ItemsHinzufügen(heilTrank);
-spieler.inventar.InventarAnzeigen();
+Game game = new Game();
+game.Run();
