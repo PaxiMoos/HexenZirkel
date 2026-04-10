@@ -1,7 +1,8 @@
 ﻿using HexenZirkel.Character;
 using HexenZirkel.Gebäude;
 
-MainCharacter spieler = new MainCharacter("Lily");
-IGebäude hexenHaus = new MainGebäude("HexenHaus");
+MainCharacter spieler = new MainCharacter(name:"Lily");
+MainGebäude hexenHaus = new MainGebäude(name:"HexenHaus");
 
 spieler?.mainGebäude?.Betreten();
+hexenHaus.mission.MissionBeschreibung();
