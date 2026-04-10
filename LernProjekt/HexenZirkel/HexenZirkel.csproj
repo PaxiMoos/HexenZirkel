@@ -10,6 +10,7 @@
   <ItemGroup>
     <Folder Include="Character\" />
     <Folder Include="Gebäude\" />
+    <Folder Include="Missionen\" />
   </ItemGroup>
 
 </Project>

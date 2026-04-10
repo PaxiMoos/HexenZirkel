@@ -1,4 +1,5 @@
 using System;
+using HexenZirkel.Character;
 
 namespace HexenZirkel.Gebäude;
 
@@ -15,11 +16,11 @@ public class MainGebäude : IGebäude
 
     public void Betreten()
     {
-        System.Console.WriteLine("Gebäude wird betreten...");
+        System.Console.WriteLine($"{Name} wird betreten...");
     }
 
     public void Verlassen()
     {
-        System.Console.WriteLine("Gebäude wird verlassen...");
+        System.Console.WriteLine($"{Name} wird verlassen...");
     }
 }

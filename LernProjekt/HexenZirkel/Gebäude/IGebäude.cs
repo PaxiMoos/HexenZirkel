@@ -1,4 +1,5 @@
 using System;
+using HexenZirkel.Character;
 
 namespace HexenZirkel.Gebäude;
 

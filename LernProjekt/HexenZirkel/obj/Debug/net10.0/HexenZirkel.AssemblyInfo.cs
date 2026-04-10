@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HexenZirkel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683b518a2d9766e0ec59223201ab7aac9ff3f465")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d91e18bc37f7596cd31a994c053ca1af010c84c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HexenZirkel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HexenZirkel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
